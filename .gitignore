@@ -3,3 +3,4 @@ __pycache__
 unity-environment.log
 Reacher.app
 rough/
+.DS_Store
